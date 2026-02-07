@@ -1,1 +1,0 @@
-- JavaScript ignora los espacios, salvo en strings y nombres de variables.

@@ -7,6 +7,7 @@ This is a learning-in-public repository, and I’ll keep updating it as I contin
 ## Structure
 
 - **javascript/**
+
   - Covers all the fundamentals of **JavaScript**.
-  - Notes and documentation are mostly written in Spanish.
   - Serves as the foundation for learning TypeScript.
+  - Notes and documentation are mostly written in Spanish.
