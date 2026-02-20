@@ -5,6 +5,7 @@
 - Reasignar es cambiar el valor a una variable existente, redeclarar es volver a declarar la variable en el mismo ámbito.
 - JavaScript ignora los espacios, salvo en strings y nombres de variables.
 - Undefined es el valor default cuando no se asigna un valor explícito.
+- El objeto window en la consola del navegador permite ver todos los métodos de este. En NodeJS no existe el objeto.
 
 ## Ámbito (scope)
 
