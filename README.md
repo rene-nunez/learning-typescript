@@ -1,13 +1,15 @@
 # Learning TypeScript
 
-This repository documents my journey learning TypeScript, from fundamental concepts to more advanced usage. It contains notes, exercises, and small projects focused on understanding TypeScript through practice.  
+This is a learning-in-public repository. If it’s useful for others who are also learning TypeScript, feel free to explore.  
 
-This is a learning-in-public repository, and I’ll keep updating it as I continue studying. If it’s useful for others who are also learning TypeScript, feel free to explore.  
+This repository contains notes, exercises, and small projects focused on understanding TypeScript through practice.
 
-## Structure
+## Content
 
-- **javascript/**
+- **javascript/**: covers all the fundamentals of JS, mostly written in Spanish.
 
-  - Covers all the fundamentals of JS.
-  - Serves as the foundation for learning TypeScript.
-  - Notes and documentation are mostly written in Spanish.
+## Roadmap
+
+- [ ] JS fundaments
+- [ ] TS fundaments
+- [ ] Projects
