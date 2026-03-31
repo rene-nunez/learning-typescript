@@ -1,8 +1,6 @@
 # Learning TypeScript
 
-This is a learning-in-public repository. If it’s useful for others who are also learning TypeScript, feel free to explore.  
-
-This repository contains notes, exercises, and small projects focused on understanding TypeScript through practice.
+This is a learning-in-public repository. If it’s useful for others who are also learning TypeScript, feel free to explore. This repository contains notes, exercises, and small projects focused on understanding TypeScript through practice.
 
 ## Content
 
@@ -10,6 +8,6 @@ This repository contains notes, exercises, and small projects focused on underst
 
 ## Roadmap
 
-- [ ] JS fundaments
-- [ ] TS fundaments
-- [ ] Projects
+- [ ] javascript/
+- [ ] typescript/
+- [ ] projects/
